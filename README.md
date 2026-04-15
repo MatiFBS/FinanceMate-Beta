@@ -20,7 +20,6 @@ Oto jak prezentuje się aplikacja:
 |:---:|:---:|:---:|
 | ![Główny](./Screenshot_1776277690.png) | ![Analityka](./Screenshot_1776277770.png) | ![Wyzwania](./Screenshot_1776277698.png) |
 
-> *(Wskazówka: aby wrzucić własne zrzuty, dodaj je w plikach tego repozytorium i podmień powyższe linki).*
 
 ---
 
