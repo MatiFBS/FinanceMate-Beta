@@ -18,7 +18,7 @@ Oto jak prezentuje się aplikacja:
 
 | Ekran Główny | System Streaków | Wyzwania |
 |:---:|:---:|:---:|
-| ![Główny](https://via.placeholder.com/200x400?text=HomeScreen) | ![Streaks](https://via.placeholder.com/200x400?text=Streak+System) | ![Wyzwania](https://via.placeholder.com/200x400?text=Challenges) |
+| ![Główny](./Screenshot_1776277690.png) | ![Analityka](./Screenshot_1776277690.png) | ![Wyzwania](./Screenshot_1776277698.png) |
 
 > *(Wskazówka: aby wrzucić własne zrzuty, dodaj je w plikach tego repozytorium i podmień powyższe linki).*
 
